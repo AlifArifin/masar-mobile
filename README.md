@@ -21,7 +21,6 @@ after that you can start the project by
 ```
 expo start
 ```
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Built With
 
